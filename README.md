@@ -1,18 +1,22 @@
 
-### Hello there; welcome 👋🏾
+### Hello there; I'm Meshach 👋🏾
 
 [![Linkedin Badge](https://img.shields.io/badge/-meshachodejide-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meshachodejide)](https://www.linkedin.com/in/meshach-odejide-4a9167185/)
 [![Twitter Badge](https://img.shields.io/badge/-@meshachdare-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/meshachdare)](https://twitter.com/meshachdare)
 
+I’m a software engineer with concentration in Backend Web, I am aslo an Open Source contributor. I love writing Golang and Javascript. Outside of my passion for building large scale distributed systems, I am interested in the future of work and how it will help transform startup development in Africa.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Golang and Javascript.
+- 💡 I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 🌱 I’m currently working on my ideas and Exploring distributed systems.
+- 👯 I’m looking to collaborate on any Nodejs, Golang or blockchain project.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💬 Ask me about Backend development, distributed systems, JavaScript, Nodejs, Golang, and API design.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing meshacholuwadamilare@gmail.com.
+- ⚡ Fun fact: I watching football, and reading how things work.
 
 ---
 
