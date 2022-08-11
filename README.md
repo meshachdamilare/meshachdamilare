@@ -10,17 +10,17 @@ I’m a software engineer with concentration in Backend Web, I am aslo an Open S
 
 - 😊 Pronouns: He/him
 - 💡 I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently working on my ideas and Exploring distributed systems.
+- 🌱 I’m currently working on my ideas and exploring distributed systems.
 - 👯 I’m looking to collaborate on any Nodejs, Golang or blockchain project.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💬 Ask me about Backend development, distributed systems, JavaScript, Nodejs, Golang, and API design.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing meshacholuwadamilare@gmail.com.
-- ⚡ Fun fact: I watching football, and reading how things work.
+- ⚡ Fun fact: I love watching football, and reading how things work.
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=christomesh&show_icons=true&include_all_commits=true&hide_border=true" alt="Christomesh's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christomesh&langs_count=8&layout=compact&hide_border=true" alt="Christomesh's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=christomesh&show_icons=true&include_all_commits=true&hide_border=true" alt="Christomesh's GitHub stats" />
 | ------------- | ------------- |
 
 <h3 align="left">Languages and Tools:</h3>
