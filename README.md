@@ -1,7 +1,7 @@
 
 ### Hello there; I'm Meshach 👋🏾
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/Xa9hxVGMLP8TGYmJ3Q" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/C3CreativeCodeContent-c3-agentur-creating-what-matters-creative-code-content-Xa9hxVGMLP8TGYmJ3Q">via GIPHY</a></p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Linkedin Badge](https://img.shields.io/badge/-meshachodejide-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meshachodejide)](https://www.linkedin.com/in/meshach-odejide-4a9167185/)
 [![Twitter Badge](https://img.shields.io/badge/-@meshachdare-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/meshachdare)](https://twitter.com/meshachdare)
