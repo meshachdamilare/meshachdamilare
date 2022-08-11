@@ -1,7 +1,7 @@
 
 ### Hello there; I'm Meshach 👋🏾
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media2.giphy.com/media/Xa9hxVGMLP8TGYmJ3Q/giphy.gif?cid=ecf05e470k0zvhfvm3h4aby0jaxaxa3w13t56bfzbqdkrev1&rid=giphy.gif&ct=s)" width="230">
 
 [![Linkedin Badge](https://img.shields.io/badge/-meshachodejide-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meshachodejide)](https://www.linkedin.com/in/meshach-odejide-4a9167185/)
 [![Twitter Badge](https://img.shields.io/badge/-@meshachdare-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/meshachdare)](https://twitter.com/meshachdare)
