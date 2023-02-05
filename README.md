@@ -19,7 +19,7 @@ I’m a software engineer with concentration in Backend Web, I am aslo an Open S
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=christomesh&show_icons=true&include_all_commits=true&hide_border=true" alt="Christomesh's GitHub stats" />
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=meshachdamilare&show_icons=true&include_all_commits=true&hide_border=true" alt="meshachdamilare's GitHub stats" />
 
 
 <h3 align="left">Languages and Tools:</h3>
