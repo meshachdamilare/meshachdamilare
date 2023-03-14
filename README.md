@@ -4,18 +4,18 @@
 [![Linkedin Badge](https://img.shields.io/badge/-meshachodejide-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meshachodejide)](https://www.linkedin.com/in/meshach-odejide-4a9167185/)
 [![Twitter Badge](https://img.shields.io/badge/-@meshachdare-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/meshachdare)](https://twitter.com/meshachdare)
 
-I’m a software engineer with concentration in Backend Web, I am aslo an Open Source contributor. I love writing Golang and Javascript. Outside of my passion for building large scale distributed systems, I am interested in the future of work and how it will help transform startup development in Africa.
+I'm a Software Developer, I love sharing my knowledge and contributing to open-source projects. I'm skilled in using Golang to build monoliths, micro-services, and cloud-native applications.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 I'm a self-taught software developer.
 - 🌱 I’m currently working on my ideas and exploring distributed systems.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
 - 💬 Ask me about Backend development, distributed systems, Golang, and API design.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing meshacholuwadamilare@gmail.com.
-- ⚡ Fun fact: I love watching football, and reading how things work.
+- ⚡ Fun fact: I love watching football, and reading about how things work.
 
 ---
 
