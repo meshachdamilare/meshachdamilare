@@ -11,7 +11,7 @@ I'm a Software Developer, I love sharing my knowledge and contributing to open-s
 - 😊 Pronouns: He/him
 - 💡 I'm a self-taught software developer.
 - 🌱 I’m currently working on my ideas and exploring distributed systems.
-- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m interested in open-source projects, hackathons, internships, and entry-level opportunities.
 - 💬 Ask me about Backend development, distributed systems, Golang, and API design.
 - 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing meshacholuwadamilare@gmail.com.
