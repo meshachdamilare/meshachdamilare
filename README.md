@@ -13,7 +13,7 @@ Welcome to my Github profile! I'm Meshach, a software engineer passionate about 
 - Framework: Chi/Echo/Gin, Nodejs/Expressjs
 - Database: PostgreSQL and MongoDB
 - Tools: Vim, Linux e.t.c
-- 💼 Job interests: Software Engineer, Golnag & DevOps (Internship or Junior level).
+- 💼 Job interests: Software Engineer, Golang & DevOps (Internship or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing meshacholuwadamilare@gmail.com.
 - ⚡ Fun fact: I love watching football, and reading about how things work.
 
