@@ -18,7 +18,5 @@ Welcome to my Github profile! I'm Meshach, I'm currently learning DevOps, Linux 
 - ⚡ Fun fact: I love watching football, and reading about how things work.
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=meshachdamilare&show_icons=true&include_all_commits=true&hide_border=true" alt="meshachdamilare's GitHub stats" />
-
 
 
