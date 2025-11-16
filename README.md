@@ -14,7 +14,7 @@ Welcome to my Github profile! I'm Meshach, I'm currently learning DevOps, Linux 
 - Container: Docker, Kubernetes, Helm, ArgoCD
 - Automation: Terraform, Ansible, Bash
 - Cloud: AWS, GCP
-- 📫 You can [view my resume](#) and contact me by emailing meshacholuwadamilare@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1zfCYeRjvCfXHa988mzAGLOzYDd5gdvNF/view?usp=sharing) and contact me by emailing meshacholuwadamilare@gmail.com
 - ⚡ Fun fact: I love watching football, and reading about how things work.
 ---
 
