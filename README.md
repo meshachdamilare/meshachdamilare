@@ -8,11 +8,13 @@ Welcome to my Github profile! I'm Meshach, I'm a DevOps/Platform Engineer.
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- Languages: Golang, Bash
-- CICD: Github Actions, Jenkins
-- Container: Docker, Kubernetes, Helm, ArgoCD
-- Automation: Terraform, Ansible, Bash
 - Cloud: AWS, GCP, Azure
+- CICD: Github Actions, Concourse
+- Container: Docker, Kubernetes, Openshift
+- GitOps: ArgoCD, Helm, Kustomize
+- Automation: Terraform, CloudFormation, Bash
+- Languages: Golang, Python
+  
 - 📫 You can [view my resume](#) and contact me by emailing meshacholuwadamilare@gmail.com
 - ⚡ Fun fact: I love watching football, and reading about how things work.
 ---
