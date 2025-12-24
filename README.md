@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-meshachodejide-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meshachodejide)](https://www.linkedin.com/in/meshach-odejide-4a9167185/)
 [![Twitter Badge](https://img.shields.io/badge/-@meshachdare-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/meshachdare)](https://twitter.com/meshachdare)
 
-Welcome to my Github profile! I'm Meshach, I'm a DevOps/Platform Engineer.
+Hello, I'm Meshach, I'm a DevOps/Platform Engineer.
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
